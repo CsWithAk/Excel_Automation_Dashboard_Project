@@ -22,7 +22,7 @@ Demo video link included for better understanding
 # 📽 Demo:
 https://github.com/CsWithAk/Excel_Automation_Dashboard_Project/blob/main/DashBoard-Image.png
 
-You can preview the demonstration on LinkedIn 
+You can preview the demonstration on LinkedIn https://www.linkedin.com/posts/cswithak_microsoft-excel-dataanalysis-activity-7358408015466647552-G8rG?utm_source=share&utm_medium=member_android&rcm=ACoAADydwUQBYUR80qqfqGefPd-S2D2lDbLNbLM
 
 # 📌 How to Use
 1.Clone the repository or download the .xlsm file.
