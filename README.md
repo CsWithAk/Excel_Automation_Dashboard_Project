@@ -19,6 +19,15 @@ Demo video link included for better understanding
 
 3.Pivot Tables & Pivot Charts
 
+---
+## DataSet 
+[Employee Dataset.xlsx](https://github.com/user-attachments/files/21856656/Employee.Dataset.xlsx)
+
+
+## Dashboard previews
+<img width="1359" height="766" alt="DashBoard-Image" src="https://github.com/user-attachments/assets/faefa13b-e140-492d-a81e-c8dae0b879e9" />
+
+
 # 📽 Demo:
 https://github.com/CsWithAk/Excel_Automation_Dashboard_Project/blob/main/DashBoard-Image.png
 
