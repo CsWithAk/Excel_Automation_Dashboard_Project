@@ -27,6 +27,9 @@ Demo video link included for better understanding
 ## Dashboard previews
 <img width="1359" height="766" alt="DashBoard-Image" src="https://github.com/user-attachments/assets/faefa13b-e140-492d-a81e-c8dae0b879e9" />
 
+[Excel_DashBord.xlsm](https://github.com/user-attachments/files/21856709/Excel_DashBord.xlsm)
+
+
 
 # 📽 Demo:
 https://github.com/CsWithAk/Excel_Automation_Dashboard_Project/blob/main/DashBoard-Image.png
